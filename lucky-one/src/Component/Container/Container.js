@@ -75,7 +75,7 @@ const Container = () => {
     //     ,[]);
     return (
         <div className='container'>
-            <div className='products'>
+            <div className='products'
 
                 {
                     dataBase.map(product=> <Product img={product.image} name={product.name} price={product.price}></Product>)
