@@ -3,40 +3,40 @@
     "name":"Saunderson",
     "rating": 5,
     "review": "Excellent adventure flying with Istvan. Before flying he determined my prior experience, and described what we would be doing. Then in the air before a maneuver he would tell me what we were about to do. He was very attentive to how I was reacting during the trip. We did a lot of what you see the Blue Angels do.",
-    "image":"./images/images-1.jpg"
+    "image":"https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images/images-1.jpg"
   },
   {
     "id":2,
     "name":"Doria",
     "rating": 5,
     "review": "Thank you to MiGFlug for their professional and friendly service that allowed me to fly in a L-39 Albatros jet in Paderborn, Germany. I cannot speak highly enough of the pilot and ground crew. The experience was amazing and the realisation of a long held ambition. Thank you to all involved and looking forward to my next trip.",
-    "image":"./images/images-2.jpg"
+    "image":"https://github.com/masudpatoary/lucky-1/blob/main-1/images/images-2.jpg?raw=true"
   },
   {
     "id":3,
     "name":"Maxy",
     "rating": 5,
     "review": "Istvan was our AMAZING pilot in Chino, CA. My boyfriend is a private pilot and it was his bucket list to take a flight in a Mig... Mission accomplished!!!!! Istvan (Steve) was such a pleasure and SUPER good at what he does. He had the time of his life. THANK YOU THANK YOU THANK YOU ISTVAN AND KRISTI FROM MIGFLUG :)",
-    "image":"./images/images-3.jpg"
+    "image":"https://github.com/masudpatoary/lucky-1/blob/main-1/images/images-3.jpg?raw=true"
   },
   {
     "id":4,
     "name":"Moritz",
     "rating": 5,
     "review": "Great experience! I’m a retired air traffic controller and I have a pilot’s license, so I have the background to evaluate the whole flight experience. It was very well organized, professional and, most importantly, a lot of fun.",
-    "image":"./images/images-4.jpg"
+    "image":"https://github.com/masudpatoary/lucky-1/blob/main-1/images/images-4.jpg?raw=true"
   },
   {
     "id":5,
     "name":"Deloria",
     "rating": 5,
     "review": "One of the best experiences of my life. I once had the honor of sitting in the nose bubble while landing the Yankee Lady and this flight was even more exciting. ",
-    "image":"./images/images-5.jpg"
+    "image":"https://github.com/masudpatoary/lucky-1/blob/main-1/images/images-5.jpg?raw=true"
   },
   {
     "id":6,
     "name":"Loella",
     "rating": 5,
     "review": "The MiG flight exceeded our expectations in every way! The pilot was incredibly welcoming and knowledgable, and the flight was truly a once in a lifetime experience. ",
-    "image":"./images/images-6.jpg"
+    "image":"https://github.com/masudpatoary/lucky-1/blob/main-1/images/images-6.jpg?raw=true"
   }]
