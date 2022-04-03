@@ -15,7 +15,7 @@
   {
     "id":3,
     "name":"Maxy",
-    "rating": 5,
+    "rating": 4.5,
     "review": "Istvan was our AMAZING pilot in Chino, CA. My boyfriend is a private pilot and it was his bucket list to take a flight in a Mig... Mission accomplished!!!!! Istvan (Steve) was such a pleasure and SUPER good at what he does. He had the time of his life.",
     "image":"https://github.com/masudpatoary/lucky-1/blob/main-1/images/images-3.jpg?raw=true"
   },
@@ -36,7 +36,7 @@
   {
     "id":6,
     "name":"Loella",
-    "rating": 5,
+    "rating": 4.5,
     "review": "The MiG flight exceeded our expectations in every way! The pilot was incredibly welcoming and knowledgable, and the flight was truly a once in a lifetime experience. ",
     "image":"https://github.com/masudpatoary/lucky-1/blob/main-1/images/images-6.jpg?raw=true"
   }]
