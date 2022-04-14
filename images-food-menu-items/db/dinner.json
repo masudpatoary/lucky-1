@@ -1,37 +1,37 @@
 [{
     "id": 868,
-    "name": "Lunch-1",
-    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/lunch/lunch1.png",
+    "name": "Dinner-1",
+    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/dinner/dinner1.png",
     "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
     "price": 2723
   }, {
     "id":34567,
-    "name": "Lunch-2",
-    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/lunch/lunch2.png",
+    "name": "Dinner-2",
+    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/dinner/dinner2.png",
     "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
     "price": 2790
   }, {
     "id": 36544,
-    "name": "Lunch-3",
-    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/lunch/lunch3.png",
+    "name": "Dinner-3",
+    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/dinner/dinner3.png",
     "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
     "price": 2733
   }, {
     "id": 34534,
-    "name": "Lunch-4",
-    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/lunch/lunch4.png",
+    "name": "Dinner-4",
+    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/dinner/dinner4.png",
     "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
     "price": 2828
   }, {
     "id": 32546,
-    "name": "Lunch-5 ",
-    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/lunch/lunch5.png",
+    "name": "Dinner-5 ",
+    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/dinner/dinner5.png",
     "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
     "price": 2931
   }, {
      "id": 1234566,
-    "name": "Lunch-6",
-    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/lunch/lunch6.png",
+    "name": "Dinner-6",
+    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/dinner/dinner6.png",
     "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
     "price": 2578
   }]
