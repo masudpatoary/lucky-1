@@ -1,31 +1,36 @@
 [{
     "id": 868,
     "name": "Breakfast-1",
-    "image": "https://i.ebayimg.com/images/g/Pq4AAOSw8p9hZzaf/s-l500.jpg",
+    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/breakfast/breakfast1.png",
+    "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
     "price": 2723
   }, {
     "id":34567,
     "name": "Breakfast-2",
-    "image": "https://i.ebayimg.com/images/g/vAAAAOSwBIxgDv6~/s-l500.jpg",
+    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/breakfast/breakfast2.png",
+    "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
     "price": 2790
   }, {
     "id": 36544,
     "name": "Breakfast-3",
-    "image": "https://i.ebayimg.com/images/g/q5oAAOSw-gtgnUrv/s-l500.jpg",
+    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/breakfast/breakfast3.png",
+    "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
     "price": 2733
   }, {
     "id": 34534,
     "name": "Breakfast-4",
-    "image": "https://i.ebayimg.com/images/g/qCEAAOSwM05h1oY8/s-l500.jpg",
+    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/breakfast/breakfast4.png",
+    "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",  
     "price": 2828
   }, {
     "id": 32546,
     "name": "Breakfast-5 ",
-    "image": "https://i.ebayimg.com/images/g/9WkAAOSwtS5gYD-M/s-l500.jpg",
+    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/breakfast/breakfast5.png",
+    "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",  
     "price": 2931
   }, {
      "id": 1234566,
     "name": "Breakfast-6",
-    "image": "https://i.ebayimg.com/images/g/pxcAAOSwis1hwW4V/s-l500.jpg",
+    "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images-food-menu-items/breakfast/breakfast6.png",
     "price": 2578
   }]
