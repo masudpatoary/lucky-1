@@ -3,31 +3,31 @@
         "id": 1234598213,
         "title": "Tax Advisory",
         "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/hotel-images/family-1.jpg",
-        "details": "lorem ipsum",
+        "details": "Our tax services for corporate clients and individuals includes: Preparation and submission of income tax returns for local and Expat individuals, Deferred tax computation and application, Acting on behalf of the clients as tax representative",
         "price": "2345"
     
     },
     {
         "id": 1223456213,
-        "title": "Tax Advisory",
+        "title": "Auditing",
         "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/hotel-images/family-1.jpg",
-        "details": "lorem ipsum",
+        "details": "I provide this service for small business and Non Profit organization. This service includs: Credit Audit, Performance Audit, Fund Audit",
         "price": "2345"
     
     },
     {
         "id": 122232513,
-        "title": "Tax Advisory",
+        "title": "Agriculture Financial Consulting",
         "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/hotel-images/family-1.jpg",
-        "details": "lorem ipsum",
+        "details": "Simply put, it’s impossible to provide sound advice about your ag business based on inaccurate financial information. That’s why my consulting services are grounded in thorough review and preparation of producers’ financial data through my accounting services. I can review and prepare documentation of Expenses and income, Budget analysis, Capital asset balances, Liability (loan) balances",
         "price": "2345"
     
     },
     {
         "id": 1224313,
-        "title": "Tax Advisory",
+        "title": "Accounting Service",
         "image": "https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/hotel-images/family-1.jpg",
-        "details": "lorem ipsum",
+        "details": "This service is for small business and Non Profit organization. This service includs: Financial forecasting, Financial health evaluation and recommendations, Year-end financial statement preparation, Financial statement analysis, interpretation and evaluation, Advising on regulatory compliance issues, Profitability analysis, Accounts payable analysis, including cash flow, workflow, and savings investigations, Accounting service needs identification, Accounting process evaluation and system implementation",
         "price": "2345"
     
     }
