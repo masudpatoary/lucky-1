@@ -2,41 +2,20 @@
     "id":1,
     "name":"Saunderson",
     "rating": 5,
-    "review": "Excellent adventure flying with Istvan. Before flying he determined my prior experience, and described what we would be doing. Then in the air before a maneuver he would tell me what we were about to do. He was very attentive to how I was reacting during the trip. We did a lot of what you see the Blue Angels do.",
-    "image":"https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/images/images-1.jpg"
+    "review": "Marc was a great help and gave very detailed information on my tax requirements. He was very prompt in responding to all my questions, and definitely made sure I was aware of all my requirements for tax compliance as an expat. It was certainly a great experience speaking with Marc, and no doubt I'd be in great hands if my taxes were handled by Marc and the Protax team.",
+    "image":"https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/assignment-10-DataBase/review/img-1.jpg"
   },
   {
     "id":2,
     "name":"Doria",
     "rating": 5,
-    "review": "Thank you to MiGFlug for their professional and friendly service that allowed me to fly in a L-39 Albatros jet in Paderborn, Germany. I cannot speak highly enough of the pilot and ground crew. The experience was amazing and the realisation of a long held ambition. Thank you to all involved and looking forward to my next trip.",
-    "image":"https://github.com/masudpatoary/lucky-1/blob/main-1/images/images-2.jpg?raw=true"
+    "review": "Marc was extremely informative and helpful. He laid out what I needed to be tax compliant and was able to ease my concerns. He did his research and was able to give me country specific information about my current situation. Everything was explained simply and easily",
+    "image":"https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/assignment-10-DataBase/review/img-2.jpg"
   },
   {
     "id":3,
     "name":"Maxy",
     "rating": 4.5,
-    "review": "Istvan was our AMAZING pilot in Chino, CA. My boyfriend is a private pilot and it was his bucket list to take a flight in a Mig... Mission accomplished!!!!! Istvan (Steve) was such a pleasure and SUPER good at what he does. He had the time of his life.",
-    "image":"https://github.com/masudpatoary/lucky-1/blob/main-1/images/images-3.jpg?raw=true"
-  },
-  {
-    "id":4,
-    "name":"Moritz",
-    "rating": 5,
-    "review": "Great experience! I’m a retired air traffic controller and I have a pilot’s license, so I have the background to evaluate the whole flight experience. It was very well organized, professional and, most importantly, a lot of fun.",
-    "image":"https://github.com/masudpatoary/lucky-1/blob/main-1/images/images-4.jpg?raw=true"
-  },
-  {
-    "id":5,
-    "name":"Deloria",
-    "rating": 5,
-    "review": "One of the best experiences of my life. I once had the honor of sitting in the nose bubble while landing the Yankee Lady and this flight was even more exciting. ",
-    "image":"https://github.com/masudpatoary/lucky-1/blob/main-1/images/images-5.jpg?raw=true"
-  },
-  {
-    "id":6,
-    "name":"Loella",
-    "rating": 4.5,
-    "review": "The MiG flight exceeded our expectations in every way! The pilot was incredibly welcoming and knowledgable, and the flight was truly a once in a lifetime experience. ",
-    "image":"https://github.com/masudpatoary/lucky-1/blob/main-1/images/images-6.jpg?raw=true"
+    "review": "This is the most recommended consultancy agency around the town",
+    "image":"https://raw.githubusercontent.com/masudpatoary/lucky-1/main-1/assignment-10-DataBase/review/img-3.jpg"
   }]
