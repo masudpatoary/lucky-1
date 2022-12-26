@@ -1,0 +1,85 @@
+[
+    {
+        "id": 546341335757413,
+        "thumb": "",
+        "img": "https://raw.githubusercontent.com/masumdev/kaf-imgdb/main/images/quail-egg.png",
+        "name": "Quail Egg",
+        "detail": [
+            "Quail eggs are a tad bit richer in taste",
+            "Quail eggs is a great source of nutrients"
+
+        ],
+        "unit": "1 dozon",
+        "price": 46,
+        "inStock": 100
+    },
+    {
+        "id": 546341070335413,
+        "thumb": "",
+        "img": "https://raw.githubusercontent.com/masumdev/kaf-imgdb/main/images/chicken-egg.png",
+        "name": "Deshi Chicken Egg",
+        "detail": [
+            "Chicken eggs are a tad bit richer in taste",
+            "Chicken eggs are great source of nutrients"
+
+        ],
+        "unit": "4 piece",
+        "price": 80,
+        "inStock": 100
+    },
+    {
+        "id": 5463413456335413,
+        "thumb": "",
+        "img": "https://raw.githubusercontent.com/masumdev/kaf-imgdb/main/images/duck-egg.png",
+        "name": "Deshi Duck Egg",
+        "detail": [
+            "Duck eggs are a tad bit richer in taste",
+            "Duck eggs are great source of nutrients"
+
+        ],
+        "unit": "4 piece",
+        "price": 100,
+        "inStock": 100
+    },
+    {
+        "id": 5463413546535413,
+        "thumb": "",
+        "img": "https://raw.githubusercontent.com/masumdev/kaf-imgdb/main/images/chicken-meat.png",
+        "name": "Deshi Processed Chicken Meat",
+        "detail": [
+            "high vitamin and nutritional value",
+            "organic chicken contained 38% more heart-healthy omega-3 fatty acids.",
+            "Organic chicken does not contain harmful bacteria"
+        ],
+        "unit": "1 piece",
+        "price": "500/KG",
+        "inStock": 100
+    },
+    {
+        "id": 54634134545335413,
+        "thumb": "",
+        "img": "https://raw.githubusercontent.com/masumdev/kaf-imgdb/main/images/mango.png",
+        "name": "Amropali Mango (hill variant)",
+        "detail": [
+            "Sweetest in test",
+            "Flesh is deep orange-red in color",
+            "Chemical free"
+        ],
+        "unit": "1 kg",
+        "price": 46,
+        "inStock": 100
+    },
+    {
+        "id": 54634135434535413,
+        "thumb": "",
+        "img": "https://raw.githubusercontent.com/masumdev/kaf-imgdb/main/images/turmaric.png",
+        "name": "Turmeric (Khagrachari variant)",
+        "detail": [
+            "Grown in Khagrachari",
+            "improve heart health and prevent against Alzheimer's and cancer"
+        ],
+        "unit": "1 kg",
+        "price": 200,
+        "inStock": 100
+    }
+]
